@@ -1,0 +1,1 @@
+This is a simple web page which contains headings,paragraph,sample image and sample link .Styling is done using css and an alert message will be invoked after clicking a button.Html,css and javascript are used.
